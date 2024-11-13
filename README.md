@@ -21,6 +21,8 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+name:kaushik k
+reg no:212222040074
 ### MainActivity.java:
 ```
 package com.example.ex8;
